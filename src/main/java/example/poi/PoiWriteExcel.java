@@ -20,7 +20,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 /**
  * Poi (Poor Obfuscation Implementation) write to excel
  *
- * @author dean grammas
+ * @author dean grammass
  */
 
 public class PoiWriteExcel
